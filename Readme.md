@@ -1,9 +1,5 @@
 # Личный проект «Девайс»
 
-* Студент: [Петр Васюкович](https://up.htmlacademy.ru/htmlcss/20/user/262281).
-* Наставник: [Артём Иванец](https://up.htmlacademy.ru/htmlcss/20/user/155879).
-
----
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitattributes`, `.gitignore`, `Contributing.md`, `Readme.md`._
